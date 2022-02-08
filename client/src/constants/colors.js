@@ -1,18 +1,23 @@
 const colors = {
-    fire: "#FDDFDF",
-    grass: "#DEFDE0",
-    electric: "#FCF7DE",
-    water: "#DEF3FD",
-    ground: "#f4e7da",
-    rock: "#d5d5d4",
-    fairy: "#fceaff",
-    poison: "#98d7a5",
-    bug: "#f8d5a3",
-    dragon: "#97b3e6",
-    psychic: "#eaeda1",
-    flying: "#f5f5f5",
-    fighting: "#e6e0d4",
-    normal: "#f5f5f5"
+
+    normal: "#A8A77A",
+    fire: "#EE8130",
+    water: "#6390F0",
+    electric: "#F7D02C",
+    grass: "#7AC74C",
+    ice: "#96D9D6",
+    fighting: "#C22E28",
+    poison: "#A33EA1",
+    ground: "#E2BF65",
+    flying: "#A98FF3",
+    psychic: "#F95587",
+    bug: "#A6B91A",
+    rock: "#B6A136",
+    ghost: "#735797",
+    dragon: "#6F35FC",
+    dark: "#705746",
+    steel: "#B7B7CE",
+    fairy: "#D685AD"
 };
 
 export default colors;
